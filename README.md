@@ -8,8 +8,12 @@
 ## 🚀 Skills  
 - **Programming:** C, C++, Python, javascript,java 
 - **Web Development:** HTML, CSS, JavaScript  
-- **Database:** MySQL, SQLite ,firebase 
+- **Database:** MySQL, SQLite ,firebase
 
+# 💡 Expense-Tracker  
+🔗 **GitHub Repository:** [Project Link](https://github.com/PavithraShine24/expense-tracker)  
+
+         
 ---
 
 💡 *Excited to learn and collaborate!* 🚀  
